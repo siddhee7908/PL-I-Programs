@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+ printf("Name:Siddhee");
+ printf("Department:CSE\n");
+ printf("College:MIT-ADTU,Pune");
+return 0;
+}
