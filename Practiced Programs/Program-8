@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+ int a,b,sum;
+ printf("Enter two integers:");
+ scanf("%d",&a,&b);
+ sum=a+b;
+ printf("Sum=%d",sum);
+retun 0;
+}
+
+Output:
+Enter two integers: 10+20
+Sum=30
