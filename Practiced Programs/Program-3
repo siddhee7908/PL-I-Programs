@@ -1,0 +1,6 @@
+printf("Welcome");
+printf("%d",10);
+
+Output:
+Welcome
+10
