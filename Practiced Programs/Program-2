@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    printf("Student Details:")
+    printf("Student Name: Siddhee Sagar");
+    printf("Division:SOC");
+    printf("College Nmae:MIT-ADTU,Pune");
+    return 0;
+}
