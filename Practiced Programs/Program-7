@@ -6,3 +6,8 @@ int main()
  printf("College:MIT-ADTU,Pune");
 return 0;
 }
+
+Output:
+Name:Siddhee
+Department:CSE
+College:MIT-ADTU,Pune
